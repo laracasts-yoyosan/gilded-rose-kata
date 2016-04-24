@@ -38,3 +38,9 @@ We have recently signed a supplier of conjured items. This requires an update to
 
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a legendary item and as such its Quality is 80 and it never alters.
 
+## Usage
+
+```
+composer install
+./vendor/bin/kahlan
+```
